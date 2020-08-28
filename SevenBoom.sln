@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenBoom", "SevenBoom\SevenBoom.csproj", "{E2710EA4-D6BB-4318-90A3-C14EE2A0B257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2710EA4-D6BB-4318-90A3-C14EE2A0B257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2710EA4-D6BB-4318-90A3-C14EE2A0B257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2710EA4-D6BB-4318-90A3-C14EE2A0B257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2710EA4-D6BB-4318-90A3-C14EE2A0B257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10CA099A-BA61-4D6D-9B68-0C2BFAB0AC19}
+	EndGlobalSection
+EndGlobal
